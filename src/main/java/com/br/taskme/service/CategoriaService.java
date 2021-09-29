@@ -1,8 +1,9 @@
 package com.br.taskme.service;
 
-import com.example.demo.model.Categoria;
+import com.br.taskme.models.Categoria;
 import java.util.List;
 import java.util.Optional;
+
 
 public interface CategoriaService {
     public Categoria addCategoria(Categoria categoria);

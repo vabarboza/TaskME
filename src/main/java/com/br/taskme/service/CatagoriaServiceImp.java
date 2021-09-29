@@ -1,7 +1,7 @@
 package com.br.taskme.service;
 
-import com.example.demo.model.Categoria;
-import com.example.demo.repository.CategoriaRepository;
+import com.br.taskme.models.Categoria;
+import com.br.taskme.repository.CategoriaRepository;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;

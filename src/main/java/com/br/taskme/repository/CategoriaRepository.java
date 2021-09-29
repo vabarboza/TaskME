@@ -4,8 +4,7 @@
  * and open the template in the editor.
  */
 package com.br.taskme.repository;
-
-import com.example.demo.model.Categoria;
+import com.br.taskme.models.Categoria;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
