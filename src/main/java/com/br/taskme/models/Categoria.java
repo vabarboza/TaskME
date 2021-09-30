@@ -15,7 +15,7 @@ import javax.persistence.Table;
  * @author Vinicius
  */
 @Entity
-@Table(name="catagoria")
+@Table(name="categoria")
 public class Categoria {
     
     @Id
